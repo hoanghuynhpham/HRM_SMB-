@@ -1,0 +1,19 @@
+{
+    "name": "phamhoanghuynh/hrm_smb",
+    "description": "Hệ thống quản lý nhân sự cho công ty SMB+, bao gồm quản lý hồ sơ nhân viên, chấm công và báo cáo công việc.",
+    "type": "library",
+    "license": "MIT",
+   "autoload": {
+    "psr-4": {
+        "Phamhoanghuynh\\HrmSmb\\": "src/"
+    }   
+    },
+    "authors": [
+        {
+            "name": "Phạm Hoàng Huynh",
+            "email": "huynh.pham@smbplus.vn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
