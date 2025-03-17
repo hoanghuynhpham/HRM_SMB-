@@ -2,8 +2,11 @@
 
 namespace Phamhoanghuynh\HrmSmb;
 
-class YourClass {
-    public function someMethod() {
-        return "This is some method";
+class YourClass
+{
+    // Phương thức tính cộng
+    public function add($a, $b)
+    {
+        return $a + $b;
     }
 }
