@@ -5,8 +5,7 @@
     "license": "MIT",
    "autoload": {
     "psr-4": {
-        "Phamhoanghuynh\\HrmSmb\\": "src/"
-    }   
+    "Phamhoanghuynh\\HrmSmb\\": "vendor/phamhoanghuynh/hrm_smb/src/"    }
     },
     "authors": [
         {
